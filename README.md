@@ -210,4 +210,4 @@ For issues or questions, please open an issue on GitHub.
 
 ---
 
-Built with by Anthropic Claude Code
+The web app was built with by Anthropic Claude Code
